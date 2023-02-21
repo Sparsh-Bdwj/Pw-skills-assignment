@@ -1,0 +1,26 @@
+Q-1 How to check that git is avilable on your system?
+Ans. By typing this on your command line {git --version}.
+
+Q-2 How to initailize a new git repository?
+Ans. Change directory to you working folder and give command {git init}.
+
+Q-3 How to tell git about your name & email?
+Ans. To tell your name give command {git config --global user.name}
+to tell you name use same command in in place of user.name type user.email.
+
+Q-4 How to add a file to staging area?
+Ans. first check you git status and to add file to staging area use command {git add 'File-Name'} 
+and If you want to add multipal file to stage area {git add .}
+
+Q-5 How to remove a file from staging area?
+Ans. git restore --staged <file-name>.
+
+Q-6 How to make a commit?
+Ans. git commit -m "message/change you have made".
+
+Q-7 How to send changes to a remote repository?
+Ans. first-o fall add file origin to your project then give command {git push}. 
+
+Q-8 Difference between clone and pull?
+Ans. To get a copy of the project on your device use git clone and while you are working on
+ it if someone made changes and push to the origin repo to get those changes on your clone project use git pull command to see those changes on your device.
