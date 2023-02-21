@@ -1,0 +1,29 @@
+Q-1 What is Git?
+Ans. Git is a free and open-source version control system use to handle source-code of very large and small projects efficiently.
+     Major use-case are 
+-tracking changes of the source code.
+-enabling muntipal developers to work on a same projects.
+
+Q-2 What do you understand by the term 'Version Control System'?
+Ans. Version control is the practice of tracking and managing changes to software code. VCS are software tools that helps software tems to manage source-code over time.
+
+Q-3 What is GitHub?
+Ans. git-hub is a code hosting platform for version control and collaboration. let deveploper over-world to work on a smae project.
+
+Q-4 Mention some popular Git hosting services.
+Ans. Github, Gitlab, Bitbucket, perforce etc
+
+Q-5 Different type of version control system.
+Ans. There are two different type of version control system
+1. Centralised VCS
+2. Decenterlised VCS
+
+Q-6 Benefits of using git.
+Ans. there are many but the major benefit of using git is its branching capabilities. unlike Centerlised VCS git branches are cheap and easy to merge.
+others- Widely used, We can undo changes easily, tracking changes on every commit.
+
+Q-7 what is a git repository?
+Ans. it is a .git/ folder inside our project which track project changes over time in that project and form a history of changes made during building the project.
+
+Q-8 HOw can you initialize o repository in git?
+Ans. first create a new repository on github then open git-bash terminal the change the current directory to you project then use the command git init to initialise the repo. 
